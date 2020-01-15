@@ -1,0 +1,50 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1579097084314">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="work.css" crc="3942069551" ref="work"/>
+    <file name="drawing.css" crc="4045816495" ref="drawing"/>
+    <file name="animation.css" crc="247694993" ref="animation"/>
+    <file name="andy_c.css" crc="3898693703" ref="andy.c"/>
+    <file name="__.css" crc="328497669" ref="啵棒"/>
+    <file name="index.css" crc="311230912" ref="index"/>
+    <file name="___.css" crc="128330048" ref="金促咪"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:animation:work:drawing:andy.c:金促咪:啵棒"/>
+    <file name="museutils.js" crc="3939489907" ref="index:animation:work:drawing:andy.c:金促咪:啵棒"/>
+    <file name="whatinput.js" crc="86476730" ref="index:animation:work:drawing:andy.c:金促咪:啵棒"/>
+    <file name="museconfig.js" crc="128606099" ref="index:animation:work:drawing:andy.c:金促咪:啵棒"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:animation:work:drawing:andy.c:金促咪:啵棒"/>
+    <file name="require.js" crc="4177726516" ref="index:animation:work:drawing:andy.c:金促咪:啵棒"/>
+  </folder>
+  <folder name="images">
+    <file name="主視1.jpg" crc="4218848226" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="主視覺-crop-u131.jpg" crc="4013935571" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="img_4757.jpg" crc="4188845387" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="img_6338.jpg" crc="362655914" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="img_6430.jpg" crc="4198065981" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="img_8718.jpg" crc="29825744" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="img_4219.jpg" crc="3773315161" seo="true" ref="andy.c">
+      <caption webpage="andy.c" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4290807265" seo="true" mt="1579094402160" redirect="true"/>
+  <file name="animation.html" crc="153561109" seo="true" mt="1579092987661" redirect="true"/>
+  <file name="work.html" crc="4202528227" seo="true" mt="1579093348704" redirect="true"/>
+  <file name="drawing.html" crc="339968423" seo="true" mt="1579094470665" redirect="true"/>
+  <file name="andy.c.html" crc="322150620" seo="true" mt="1579094393769" redirect="true"/>
+  <file name="金促咪.html" crc="195283935" seo="true" mt="1579094363705" redirect="true"/>
+  <file name="啵棒.html" crc="118753185" seo="true" mt="1579094236842" redirect="true"/>
+</manifest>
